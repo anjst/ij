@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ij/static/css/main.dc6469c3.css",
-    "main.js": "/ij/static/js/main.afb323b7.js",
+    "main.js": "/ij/static/js/main.1d06b796.js",
     "static/media/tropical-mangrove 2.jpg": "/ij/static/media/tropical-mangrove 2.d5760000654fb79f8a34.jpg",
     "static/media/temple-bar 2.jpg": "/ij/static/media/temple-bar 2.c728f7932c83e85583f3.jpg",
     "static/media/subway 2.jpg": "/ij/static/media/subway 2.b0ff626296688d352c41.jpg",
@@ -12,10 +12,10 @@
     "static/media/temple-bar.jpg": "/ij/static/media/temple-bar.c7a2c8ac07b64378cabf.jpg",
     "index.html": "/ij/index.html",
     "main.dc6469c3.css.map": "/ij/static/css/main.dc6469c3.css.map",
-    "main.afb323b7.js.map": "/ij/static/js/main.afb323b7.js.map"
+    "main.1d06b796.js.map": "/ij/static/js/main.1d06b796.js.map"
   },
   "entrypoints": [
     "static/css/main.dc6469c3.css",
-    "static/js/main.afb323b7.js"
+    "static/js/main.1d06b796.js"
   ]
 }
